@@ -1,4 +1,4 @@
-## Mobile app analysis
+## E-Commerce project
 --- 
 ### Research Goals
 **The main goal** of this analysis is to segment customers based on their purchase history in order to develop more personalized offers. The research also aims to solve the following business challenges:
